@@ -89,7 +89,7 @@ Ron also has an interest in voting systems, he published the ThreeBallot system 
 
 Essentially they would be given three ballots, each with an identifiable number. On two of the ballots they made to make them cancel out. E.G. In an election between Bob and Alice. And the voter wanted Alice to win. So in two of the ballots they would mark Alice with an X then in the other ballot they would mark Bob with an X. So that overall Alice got 1+ vote in comparsion to Bob. This meant that if ballots go missing, it would be easier for a voter to detect this. There has been some criticism of this system as people argue it isn't very usable.
 
-## Education Influence
+## Educational Influence
 <p align="center">
   <img src="https://www.cs.dartmouth.edu/~thc/clrs-bugs/CLRS3e.jpg"/>
 </p>
