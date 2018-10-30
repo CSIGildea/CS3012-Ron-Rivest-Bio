@@ -100,7 +100,7 @@ Rivest co-authored "Introduction to Algorithms" with Charles E. Leiserson, Thoma
 
 Ron has without a shadow of a doubt been hugely influential in Algorithms, Cryptography and Voting. His work immensly propelled the industry forward. I personally believe cryptography and voting mechanisms are more important than ever. I believe in a future in which there is much more decentralized systems (decentralized NOT being ICOs or cryptocurrency alone), but protocols such as the dat protocol where it is much more similiar to torrents but for websites. 
 
-I believe this type of completely decrentalized system is necessary for the future but it could only be possible if sensitive information can be encrypted with symmetric keys and public key prime factorisation encryption used to encrypt the symmetric key for multiple people to use. I am fascinated of the idea of everyone having the information but the encryption is so strong it doesn't matter, only those with the correct private keys can make sense of it.
+I believe this type of completely decrentalized system is necessary for the future but it could only be possible if sensitive information can be encrypted with symmetric keys and public key prime factorisation encryption used to encrypt the symmetric key for multiple people to use. I am fascinated of the idea of everyone having the information but the encryption is so strong it doesn't matter, only those with the correct private keys can make sense of it. That is why Ron Rivest inspires me as a programmer.
 
 ### Sources Used
 - Ron Rivest - Numberphile Playlist: https://www.youtube.com/watch?v=YQw124CtvO0&list=PLt5AfwLFPxWJN-idOLqOJNdAPBN9zahTa
