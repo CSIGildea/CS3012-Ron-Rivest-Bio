@@ -110,6 +110,7 @@ I believe this type of completely decrentalized system is necessary for the futu
 ##### *The encrypted paragraph does not contain actual bank details...but it makes a great opener...*
 ##### Here are the Public and Private Keys, for those of you who like a little adventure:
 -----BEGIN PUBLIC KEY-----
+
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAinNzRqKbngsJksWw8rgr
 JUmUVmeyisLFnY1KMvG72tw3C77C0DpVmH4KDAeUhdxoieb2VUBO/oBhWB5TOtK+
 kyF3l0Kb5+uFQeDeQ6EFWfl9IA9UDF/fR9yYiuBLLh/AL0chUCIpdmE+13oCMC4U
@@ -117,10 +118,12 @@ kyF3l0Kb5+uFQeDeQ6EFWfl9IA9UDF/fR9yYiuBLLh/AL0chUCIpdmE+13oCMC4U
 9Ly8kjeVSd5ApGM+2nQ4x2NTjK9Bj5WXVSs9WJGAYqYQFDpEiTZOG8YJmwKhKe6q
 H+W4AK+xd01Ze2fdTOtCwLYjZWGuxU9+kjd2gPvMz6kO9+aiZr0VcT0DzyauDQQW
 nwIDAQAB
+
 -----END PUBLIC KEY-----
 
 
 -----BEGIN RSA PRIVATE KEY-----
+
 MIIEpAIBAAKCAQEAinNzRqKbngsJksWw8rgrJUmUVmeyisLFnY1KMvG72tw3C77C
 0DpVmH4KDAeUhdxoieb2VUBO/oBhWB5TOtK+kyF3l0Kb5+uFQeDeQ6EFWfl9IA9U
 DF/fR9yYiuBLLh/AL0chUCIpdmE+13oCMC4U2tLx0zimLg5Ge216se/xyUlREfBe
@@ -146,4 +149,5 @@ MBCH8vhcyr1KTs5upJuPyRg6B7LY835uIeB3VBsch7BZChGF1h6FrHlpWmNx3CdS
 RRInhrECgYAUZa2GtepETl8q7SzzFPHkMch2KKaA/Zpib6tLjyx2HhyQ2NRqg+8L
 0G1he2TTdyIhof6ibkSKiAlJ7gLliWYSb8ip2gWcYcH7F63YO4y7gufMx2nDSw6R
 P3AdrW6/ru6jFErHMAVZu72b2bnHPXRrQuN1apQWMm3DlabdlzJ4Cg==
+
 -----END RSA PRIVATE KEY-----
